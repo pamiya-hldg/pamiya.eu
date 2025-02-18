@@ -364,7 +364,7 @@ a:hover
 .navigation-main ul li span:hover,
 .navigation-main ul li.current a
 {
-    color: #aebbbd;
+    color: #9eabad;
 }
 
 
@@ -698,7 +698,7 @@ section .headline
             transform: scale(1);
 
     border-radius: 100%;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #intro .container-mid a:hover:before
@@ -927,7 +927,7 @@ section .headline
     vertical-align: middle;
 
     border-radius: 100%;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #service .service-item h5
@@ -1013,7 +1013,7 @@ section .headline
 
     opacity: 0;
     border-radius: 100%;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #work .work-carousel .owl-dots .owl-dot.active:after,
@@ -1131,7 +1131,7 @@ section .headline
     opacity: 0;
     color: #fff;
     border-radius: 100%;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #work .work-carousel .item:hover .info .container-mid i
@@ -1293,7 +1293,7 @@ section .headline
     padding: 0 3.5rem;
 
     border-radius: 3.5rem;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #contact .contact-list .contact-list-item .contact-type i
@@ -1422,7 +1422,7 @@ section .headline
             transform: scale(1);
 
     border-radius: 100%;
-    background: #aebbbd;
+    background: #9eabad;
 }
 
 #footer .social-icons li:hover:before
